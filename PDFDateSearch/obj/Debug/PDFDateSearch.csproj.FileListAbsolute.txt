@@ -1,0 +1,8 @@
+C:\projects\PDFDateSearch\PDFDateSearch\bin\PDFDateSearch.exe.config
+C:\projects\PDFDateSearch\PDFDateSearch\bin\PDFDateSearch.exe
+C:\projects\PDFDateSearch\PDFDateSearch\bin\PDFDateSearch.pdb
+C:\projects\PDFDateSearch\PDFDateSearch\bin\fsdk_dotnet.dll
+C:\projects\PDFDateSearch\PDFDateSearch\obj\Debug\PDFDateSearch.csproj.CoreCompileInputs.cache
+C:\projects\PDFDateSearch\PDFDateSearch\obj\Debug\PDFDateSearch.csproj.CopyComplete
+C:\projects\PDFDateSearch\PDFDateSearch\obj\Debug\PDFDateSearch.exe
+C:\projects\PDFDateSearch\PDFDateSearch\obj\Debug\PDFDateSearch.pdb
